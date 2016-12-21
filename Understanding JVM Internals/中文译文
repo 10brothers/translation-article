@@ -1,1 +1,2 @@
-理解JVM虚拟机内部
+# 理解JVM虚拟机内部
+    每个java开发者都知道java的字节码运行在JRE内(Java Runtime Environment  java运行时环境)。
